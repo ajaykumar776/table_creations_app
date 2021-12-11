@@ -8,7 +8,7 @@
 # Snapshots
 * Home screen
 ![HOME SCREEN](snapshots/home.png)
-* Login screen
-![LOGIN SCREEN](snapshots/success.png)
-* Dashboard screen
-![YOUR DASHBOARD SCREEN](snapshots/error.png)
+* success screen
+![Sucess SCREEN](snapshots/success.png)
+* error screen
+![Error SCREEN](snapshots/error.png)
